@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\MeterStors\\MeterStors.API\\MeterStors.API.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\MeterStors\\MeterStors.API\\MeterStors.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\MeterStors\\MeterStors.API\\MeterStors.API.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\MeterStors\\MeterStors.API\\MeterStors.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\MeterStors\\MeterStors.API\\MeterStors.API.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MeterStors.API\\MeterStors.API.csproj",
         "projectName": "MeterStors.API",
-        "projectPath": "C:\\Users\\User\\Desktop\\MeterStors\\MeterStors.API\\MeterStors.API.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MeterStors.API\\MeterStors.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\MeterStors\\MeterStors.API\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MeterStors.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj"
+              "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj"
               }
             }
           }
@@ -90,24 +90,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -116,18 +98,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\MeterStors\\MS.Core\\MS.Core.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Core\\MS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Core\\MS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Core\\MS.Core.csproj",
         "projectName": "MS.Core",
-        "projectPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Core\\MS.Core.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Core\\MS.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,37 +148,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\MeterStors\\MS.Data\\MS.Data.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Data\\MS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Data\\MS.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Data\\MS.Data.csproj",
         "projectName": "MS.Data",
-        "projectPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Data\\MS.Data.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Data\\MS.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Data\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,8 +181,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\MeterStors\\MS.Core\\MS.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Core\\MS.Core.csproj"
+              "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Core\\MS.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Core\\MS.Core.csproj"
               }
             }
           }
@@ -274,18 +242,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj",
         "projectName": "MS.Infrastructure",
-        "projectPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Infrastructure\\MS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -302,8 +270,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\MeterStors\\MS.Data\\MS.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\MeterStors\\MS.Data\\MS.Data.csproj"
+              "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Data\\MS.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\MeterStors\\MS.Data\\MS.Data.csproj"
               }
             }
           }
@@ -342,26 +310,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

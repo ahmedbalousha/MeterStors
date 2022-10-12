@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace MeterStors.API.Data
-{
+{ // add db context
     public class MSDbContext : IdentityDbContext<User>
     {
         public MSDbContext(DbContextOptions<MSDbContext> options)
